@@ -18,7 +18,7 @@ Api(Vue);
 // 全局组件
 Vue.use(MintUI);
 Vue.use(GlobalUI);
-
+//vue-assistant
 
 Vue.config.productionTip = false
 
