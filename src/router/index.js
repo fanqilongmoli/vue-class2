@@ -15,6 +15,11 @@ const router = new Router({
             path: '/info',
             name: 'info',
             component: resolve => require(['../views/info.vue'], resolve)
+        },
+        {
+            path: '/EatWhat',
+            name: 'EatWhat',
+            component: resolve => require(['../views/eatWhat.vue'], resolve)
         }
     ]
 });

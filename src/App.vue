@@ -123,6 +123,8 @@
 
 <style lang="scss" rel="stylesheet/scss">
     html {
+        //各大主流浏览器的font-size默认值为16px
+        //设置了62.5%以后就有 1rem=10px
         font-size: 62.5%;
     }
 
